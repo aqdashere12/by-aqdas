@@ -1,0 +1,207 @@
+
+/* section 1 starts
+*/
+.text1{
+   padding-top: 20px;
+   padding-left: 80px;
+   text-align: center;
+   font-size: 20px;
+   
+}
+.image1{
+    height: 150px;
+    padding-top: 100px;
+    padding-left: 170px;
+    width: 370px;
+    
+}
+.image2{
+ 
+    height: 550px;
+    width: 500px;
+    padding-top: 85px;
+  
+}
+.image2andtext{
+   display: flex;
+   justify-content: space-around;
+}
+.image3{
+height: 90px;
+padding-left: 160px;
+}
+.image4{
+height: 90px;
+padding-left: 15px;
+}
+
+.image3and4{
+   
+    padding-top: 60px;
+  
+}
+
+.maindiv{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 110px;
+}
+/*
+section 1 ends
+*/
+
+
+/*
+section..2..starts
+*/
+.im1-s2{
+    height: 650px;
+    padding-top: 100px;
+    padding-left: 90px;
+
+}
+.sec2maindiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec2text1{
+    align-content: center;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 120px;
+}
+
+/*
+section...2...ends
+*/
+
+
+/*
+section...3...starts
+*/
+.sec3maindiv{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+.sec3image1{
+    height: 550px;
+    width: 450px;
+    padding-right: 190px;
+
+
+}
+.sec3text1{
+    font-size: 25px;
+    padding-top: 190px;
+    letter-spacing: 3px;
+    padding-left: 180px;
+    text-align: center;
+
+}
+.sec3text2{
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+/*section 3 ends here
+*/
+
+
+/*section 4 starts 
+*/
+
+.sec4maindiv{
+    display: flex;
+
+
+
+}
+
+.sec4image1{
+    height: 550px;
+    width: 450px;
+padding-left: 70px;
+
+}
+/*    section       4     */
+.section-4{
+    display: flex;
+    justify-content: space-between;
+}
+.section4-img{
+       height: 560px;
+       padding: 0px 0px 0px 78px;
+}
+.section-logo{
+       width:580px ;
+       height: 100px;
+       padding: 80px 265px 0px 0px;
+}
+.section-text1{
+     padding: 20px 0px 0px 214px;
+     font-size: xx-large;
+     letter-spacing:3px ;
+}
+.section-text2{
+     padding: 0px 0px 0px 130px;
+     font-size: xx-large;
+     letter-spacing:3px ;
+}
+.section-text3{
+    padding: 0px 0px 0px 90px;
+    font-size: xx-large;
+     letter-spacing:3px ;
+}
+.section-text4{
+    padding: 0px 0px 0px 160px ;
+    font-size: xx-large;
+    letter-spacing:3px ;
+    
+    }
+
+/*     section 4 end */
+.aqdas{
+    background-color: rgb(246, 247, 243);
+}
+
+/*section 5 starts
+*/
+
+
+.trx{
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+}
+.lastpart{
+    display: flex;
+    justify-content: space-between;
+}
+.play2{
+    height: 120px;
+    align-items: center;
+    padding-left: 370px;
+    
+}
+.app2{
+    height: 120px;
+    padding-right: 350px;
+}  
+
+.qu{
+    text-align: center;
+  justify-content: space-between;
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.per{
+    padding-left: 580px;
+    padding-bottom: 12opx;
+}
+/*the end
